@@ -4,7 +4,8 @@ You can use the [editor on GitHub](https://github.com/mpolimeno/mpolimeno.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### I am a Ph.D. Student in Applied Math at the [University of California, Merced] (https://appliedmath.ucmerced.edu/graduate-students)
+### I am a Ph.D. Student in Applied Math at the 
+[University of California, Merced] (https://appliedmath.ucmerced.edu/graduate-students)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
