@@ -16,11 +16,4 @@ My name is Matteo Polimeno and I am a Ph.D. Student in Applied Math at the
 - _Stochastic Modeling_
 - _Scientific and High Performance Computing_
 
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To check out some of my work, visit my [GitHub Profile](https://github.com/mpolimeno)
