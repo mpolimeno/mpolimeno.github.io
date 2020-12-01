@@ -15,11 +15,11 @@ My name is Matteo Polimeno and I am a Ph.D. Student in Applied Math at the
   printf("Welcome to my website. Good to have you here!\n");
   return(0);
 }`
-
+```
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
