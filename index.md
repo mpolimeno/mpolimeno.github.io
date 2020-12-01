@@ -1,7 +1,5 @@
 ## Welcome To The Personal Website of Matteo Polimeno
 
-You can use the [editor on GitHub](https://github.com/mpolimeno/mpolimeno.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
 ## Hi there!
 My name is Matteo Polimeno and I am a Ph.D. Student in Applied Math at the 
 [University of California, Merced](https://appliedmath.ucmerced.edu/graduate-students)
@@ -10,17 +8,12 @@ My name is Matteo Polimeno and I am a Ph.D. Student in Applied Math at the
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+My research interests are
 
-# Header 1
-## Header 2
-### Header 3
+- Partial Differential Equations
+- Stochastic Modeling
+- Scientific and High Performance Computing
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
