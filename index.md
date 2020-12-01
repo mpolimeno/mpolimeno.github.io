@@ -1,18 +1,25 @@
 ## Welcome To The Personal Website of Matteo Polimeno
+```markdown
 
+
+`
+int main()
+{
+  printf("Welcome to my website. Good to have you here!\n");
+  return(0);
+}
+`
 ## Hi there!
 My name is Matteo Polimeno and I am a Ph.D. Student in Applied Math at the 
 [University of California, Merced](https://appliedmath.ucmerced.edu/graduate-students)
 
+**My research interests are**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- _Partial Differential Equations_
+- _Stochastic Modeling_
+- _Scientific and High Performance Computing_
 
-```markdown
-My research interests are
 
-- Partial Differential Equations
-- Stochastic Modeling
-- Scientific and High Performance Computing
 
 
 **Bold** and _Italic_ and `Code` text
