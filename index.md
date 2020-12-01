@@ -1,13 +1,4 @@
 ## Welcome To The Personal Website of Matteo Polimeno
-```markdown
-hey sup
-
-`int main()
-{
-  printf("Welcome to my website. Good to have you here!\n");
-  return(0);
-}`
-
 ## Hi there!
 My name is Matteo Polimeno and I am a Ph.D. Student in Applied Math at the 
 [University of California, Merced](https://appliedmath.ucmerced.edu/graduate-students)
@@ -18,7 +9,12 @@ My name is Matteo Polimeno and I am a Ph.D. Student in Applied Math at the
 - _Stochastic Modeling_
 - _Scientific and High Performance Computing_
 
-
+```markdown
+`int main()
+{
+  printf("Welcome to my website. Good to have you here!\n");
+  return(0);
+}`
 
 
 **Bold** and _Italic_ and `Code` text
