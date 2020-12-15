@@ -10,7 +10,10 @@ int main()
 My name is Matteo Polimeno and I am a Ph.D. Student in Applied Math at the 
 [University of California, Merced](https://appliedmath.ucmerced.edu/graduate-students)
 
-**My research interests are**
+**Publications**
+[Characterizing coherent structures in Bose-Einstein condensates through dynamic-mode decomposition](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062215)
+
+**Research Interests**
 
 - _Partial Differential Equations_
 - _Stochastic Modeling_
