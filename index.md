@@ -18,6 +18,6 @@ My name is Matteo Polimeno and I am a Ph.D. Student in Applied Math at the
 
 **Publications**
 
-[Characterizing coherent structures in Bose-Einstein condensates through dynamic-mode decomposition](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062215), Christopher W. Curtis, Ricardo Carretero and Matteo Polimeno
+[Characterizing coherent structures in Bose-Einstein condensates through dynamic-mode decomposition](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062215), Christopher W. Curtis, Ricardo Carretero and Matteo Polimeno. Phys. Rev. E 99, 062215. June 2019.
 
 To check out some of my work, visit my [GitHub Profile](https://github.com/mpolimeno)
